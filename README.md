@@ -44,13 +44,5 @@ PCA
 In PCA ,chi square methods created a list starting from 5 ,10,15,......55 and created a function to do so.
 
 
-### Challenges faced
-
- NA
-
-
-### Additional pointers
-
- NA
 
 
